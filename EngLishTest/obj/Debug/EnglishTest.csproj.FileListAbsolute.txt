@@ -1,0 +1,14 @@
+C:\Users\qtran\Source\Repos\EngLishTest\bin\Debug\EnglishTest.exe.config
+C:\Users\qtran\Source\Repos\EngLishTest\bin\Debug\EnglishTest.exe
+C:\Users\qtran\Source\Repos\EngLishTest\bin\Debug\EnglishTest.pdb
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.csproj.AssemblyReference.cache
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.Form1.resources
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.FormMain.resources
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.Properties.Resources.resources
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.QuanLyCauHoi.resources
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.csproj.GenerateResource.cache
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.csproj.CoreCompileInputs.cache
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.exe
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.pdb
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.FormDifficulties.resources
+C:\Users\qtran\Source\Repos\EngLishTest\obj\Debug\EnglishTest.FormTiengVietTest.resources
